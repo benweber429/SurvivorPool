@@ -13,12 +13,12 @@ The page stacks Pool Standings, The Island, and The Tribe Has Spoken. Pool stand
 
 To record an existing exit history, add `| out 1`, `| out 2`, etc. after the owner on each exited castaway's line.
 
-For the current board, Aaliyah Puglia is listed as a pre-draft exit. Rob Antonson is marked as a quit; the other three exits are marked as voted out.
+For the current board, Aaliyah Puglia is listed as a pre-draft exit. The board reflects Episode 4 (October 14, 2026): Jenna Doore is the fifth exit, Rob Antonson is marked as a quit, and the other exits are marked as voted out. Tribe labels reflect the Episode 4 swap: Toka (yellow), Savu (purple), and Dina (red). Existing Season 51 boards saved in a browser are updated with the Episode 4 tribe assignments and Jenna's elimination when the page loads. Standings show each pool member's remaining picks and exited picks.
 
 The board is saved in the browser's local storage. Each device has its own copy, so edits do not sync between pool members.
 
 Contestant portraits are stored locally in `assets/contestants/` and were sourced from [Parade's Survivor 51 cast gallery](https://parade.com/tv/survivor-51-cast-2026). The Parade gallery credits the cast photography to Robert Voets / CBS. The page background image is stored in `assets/backgrounds/`.
 
-Advantage holders are currently listed through Episode 3. The two Hidden Immunity Idols and two Secret Extra Votes were cross-checked against [Survivor Tribes' Season 51 advantage tracker](https://survivortribes.com/season/idols-advantages) and [Parade's Episode 3 recap](https://parade.com/tv/who-was-voted-off-survivor-tonight-week-3-recap-quit-mutiny-twist-spoilers-2026). Hidden idols use a fishhook graphic; Secret Extra Votes use parchment, with subtle motion.
+Advantage holders are currently listed through Episode 4: Carter Krull and Angelica “Jelly” Loblack hold Hidden Immunity Idols, while Devin Way and Maggie Nestor hold Secret Extra Votes. The holders were cross-checked against [Survivor Tribes' Season 51 advantage tracker](https://survivortribes.com/season/idols-advantages) and [Parade's Episode 4 recap](https://parade.com/tv/who-was-voted-off-survivor-tonight-week-4-recap-new-tribes-spoilers-2026). Hidden idols use a fishhook graphic; Secret Extra Votes use parchment, with subtle motion.
 
 Click **Jeff Probst** in the footer disclaimer to reveal the hidden Jeff Probst easter egg. His image is stored in `assets/jeff-probst-easter-egg.jpg`.
